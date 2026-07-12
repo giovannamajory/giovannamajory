@@ -35,14 +35,17 @@ Atualmente trabalho com suporte e sustentação de sistemas corporativos, análi
 
 ## 📫 Contato
 
-<a href="mailto:giovannamajorysts@gmail.com">
+<div>
+  
+<a href="mailto:giovannamajorysts@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/giovanna-majory-63a809269" target="_blank">
+<a href="https://www.linkedin.com/in/giovanna-majory-63a809269" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+</div>
 ---
 
 > "Transformando problemas reais em soluções através da tecnologia."
