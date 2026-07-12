@@ -19,45 +19,31 @@ Atualmente trabalho com suporte e sustentação de sistemas corporativos, análi
 
 ## 🛠️ Tecnologias
 
-<div style="display: inline_block"><br>
-
-<img align="center" alt="CSharp" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-<img align="center" alt="DotNet" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-
-<img align="center" alt="SQLServer" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-
-<img align="center" alt="PostgreSQL" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-
-<img align="center" alt="HTML" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="Git" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 </div>
 
 ---
 
 ## 📊 Estatísticas
 
+## 📊 Estatísticas
+
 <div align="center">
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=GiovannaMajory&show_icons=true&theme=github_dark&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=GiovannaMajory&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaMajory&layout=compact&theme=github_dark&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaMajory&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
