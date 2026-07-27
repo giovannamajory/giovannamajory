@@ -12,7 +12,7 @@ Atualmente trabalho com suporte e sustentação de sistemas corporativos, análi
 - ⚙️ Desenvolvimento de automações e ferramentas internas
 - 🗄️ SQL Server, PostgreSQL e modelagem de dados
 - 🔌 APIs REST e integrações entre sistemas
-- 💻 Desenvolvimento Backend com C# e .NET
+- 💻 Desenvolvimento Backend com C#, .NET e Python
 - 📚 Estudando arquitetura de software e boas práticas de desenvolvimento
 
 ---
