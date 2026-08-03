@@ -1,28 +1,28 @@
-# Olá, eu sou a Giovanna Majory 👋
+# Hi, I'm Giovanna Majory 👋
 
-Desenvolvedora e Analista de Sistemas em formação, apaixonada por tecnologia, automação de processos e desenvolvimento de soluções que resolvem problemas reais.
+Aspiring Software Developer and Systems Analyst, passionate about technology, process automation, and building solutions that solve real-world problems.
 
-Atualmente trabalho com suporte e sustentação de sistemas corporativos, análise de requisitos, SQL, integrações e desenvolvimento em C#.
-
----
-
-## 🚀 Sobre mim
-
-- 💼 Experiência com sistemas corporativos e suporte N1/N2
-- ⚙️ Desenvolvimento de automações e ferramentas internas
-- 🗄️ SQL Server, PostgreSQL e modelagem de dados
-- 🔌 APIs REST e integrações entre sistemas
-- 💻 Desenvolvimento Backend com C#, .NET e Python
-- 📚 Estudando arquitetura de software e boas práticas de desenvolvimento
+I currently work with support and maintenance of corporate systems, requirements analysis, SQL, integrations, and C# development.
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 About Me
+
+- 💼 Experience with corporate systems and N1/N2 support
+- ⚙️ Development of automation solutions and internal tools
+- 🗄️ SQL Server, PostgreSQL, and data modeling
+- 🔌 REST APIs and system integrations
+- 💻 Backend development with C#, .NET, and Python
+- 📚 Currently studying software architecture and development best practices
+
+---
+
+## 🛠️ Technologies
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -30,11 +30,10 @@ Atualmente trabalho com suporte e sustentação de sistemas corporativos, análi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
-</div>
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div>
   
@@ -47,6 +46,7 @@ Atualmente trabalho com suporte e sustentação de sistemas corporativos, análi
 </a>
 
 </div>
+
 ---
 
-> "Transformando problemas reais em soluções através da tecnologia."
+> "Transforming real-world problems into solutions through technology."
